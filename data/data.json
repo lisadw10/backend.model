@@ -1,0 +1,8 @@
+{
+    "english" : [{
+        "Icon" : "icn-globe", "text": "About Us"
+    }],
+    "indonesia" : [{
+        "Icon" :"icn-globe", "text":"Tentang Kami"
+    }]
+}
